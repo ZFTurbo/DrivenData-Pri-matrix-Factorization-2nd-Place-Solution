@@ -74,8 +74,6 @@ python r70_create_videos.py
 4) It's probably only 2 networks for feature extraction needed for good accuracy Inception v3 and VGG16: r21_create_keras_models_based_on_inception_v2.py and r21_create_keras_models_based_on_VGG16.py.
 5) In the header of each code file you can find some notes about its functionality
 
-## Initial weights and pretrained models
-- Weights for pretrained models available by link (~X.X GB): 
-
 ## Dataflow
+
 ![Dataflow](https://github.com/ZFTurbo/DrivenData-Pri-matrix-Factorization-2nd-Place-Solution/blob/master/img/Primatrix_dataflow.png)
