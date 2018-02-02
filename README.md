@@ -23,7 +23,7 @@ All batch sizes for Neural nets are tuned to be used on NVIDIA GTX 1080 Ti 11 GB
 
 ## How to run:
 
-All r*.py files must be run one by one. All intermediate folders will be created automatically.
+All r*.py files must be run in provided order. All intermediate folders will be created automatically.
 ```
 python r10_preprocess_data.py
 python r11_get_metadata_table.py
